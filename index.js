@@ -1,5 +1,5 @@
 var a,b
 
-function () {
+function var () {
   add(a,b)
 }
